@@ -29,7 +29,7 @@ Is it scope of MUD?
 # Appendix
 ## Modified MUD File Example
 This example contains a new field which is below.
-- "thing-dnsname" : This is the domain name which is a portion of things's FQDN.
+- "thing-dnsname" : This is the domain name which is a portion of Thing's FQDN.
 
 ```json
 {
