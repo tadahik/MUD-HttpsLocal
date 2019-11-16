@@ -27,6 +27,10 @@ To handle nvr.example.com, local DNS server need to be delegated from nvr.exampl
 Is it scope of MUD?
 
 # Appendix
+## Modified MUD File Example
+This example contains a new field which is below.
+- "thing-dnsname" : This is the domain name which is a portion of things's FQDN.
+
 ```json
 {
   "ietf-mud:mud": {
