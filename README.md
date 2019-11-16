@@ -17,6 +17,7 @@ Those devices will have local address, and FQDN under device vender’s Domain n
 # Use of MUD for above use case
 The method of importing certificates into devices, is out of scope here
 
+![usecase-mud-httpslocal](https://user-images.githubusercontent.com/57828275/68990814-fb296000-089a-11ea-88cc-bbb8d9f6bf12.png)
 
 
 
