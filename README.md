@@ -1,5 +1,5 @@
 # MUD-HttpsLocal
-Concerns on use of MUD for [HttpsLocal](https://httpslocal.github.io/proposals/#web-pki-approaches)'s DNS registoration.
+Concerns on use of MUD for [HttpsLocal](https://httpslocal.github.io/proposals/#web-pki-approaches)'s DNS registration.
 
 # Use case
 **Situation:**
